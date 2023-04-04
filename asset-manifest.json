@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WhatsApp_Clone/static/css/main.4c0fd0ba.css",
+    "main.js": "/WhatsApp_Clone/static/js/main.10eceec5.js",
+    "static/js/787.9624773e.chunk.js": "/WhatsApp_Clone/static/js/787.9624773e.chunk.js",
+    "static/media/bg_img.jpg": "/WhatsApp_Clone/static/media/bg_img.fe340a9691c509f5b87f.jpg",
+    "index.html": "/WhatsApp_Clone/index.html",
+    "main.4c0fd0ba.css.map": "/WhatsApp_Clone/static/css/main.4c0fd0ba.css.map",
+    "main.10eceec5.js.map": "/WhatsApp_Clone/static/js/main.10eceec5.js.map",
+    "787.9624773e.chunk.js.map": "/WhatsApp_Clone/static/js/787.9624773e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c0fd0ba.css",
+    "static/js/main.10eceec5.js"
+  ]
+}
